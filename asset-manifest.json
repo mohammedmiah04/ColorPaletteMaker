@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ColorPaletteMaker/static/css/main.9f3b6256.chunk.css",
+    "main.js": "/ColorPaletteMaker/static/js/main.eb34c49a.chunk.js",
+    "main.js.map": "/ColorPaletteMaker/static/js/main.eb34c49a.chunk.js.map",
+    "runtime-main.js": "/ColorPaletteMaker/static/js/runtime-main.1c81ed6c.js",
+    "runtime-main.js.map": "/ColorPaletteMaker/static/js/runtime-main.1c81ed6c.js.map",
+    "static/js/2.faa493fa.chunk.js": "/ColorPaletteMaker/static/js/2.faa493fa.chunk.js",
+    "static/js/2.faa493fa.chunk.js.map": "/ColorPaletteMaker/static/js/2.faa493fa.chunk.js.map",
+    "index.html": "/ColorPaletteMaker/index.html",
+    "precache-manifest.4b11c480d21e72ef79fe689123076c2d.js": "/ColorPaletteMaker/precache-manifest.4b11c480d21e72ef79fe689123076c2d.js",
+    "service-worker.js": "/ColorPaletteMaker/service-worker.js",
+    "static/css/main.9f3b6256.chunk.css.map": "/ColorPaletteMaker/static/css/main.9f3b6256.chunk.css.map",
+    "static/js/2.faa493fa.chunk.js.LICENSE.txt": "/ColorPaletteMaker/static/js/2.faa493fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c81ed6c.js",
+    "static/js/2.faa493fa.chunk.js",
+    "static/css/main.9f3b6256.chunk.css",
+    "static/js/main.eb34c49a.chunk.js"
+  ]
+}
